@@ -26,11 +26,11 @@ The work was presented and published in the **Proceedings of ICMBNT 2025** under
 | Category | Tools / Libraries |
 |-----------|------------------|
 | **Languages** | Python |
-| **Frameworks** | PyTorch, scikit-learn, timm, NumPy, pandas |
+| **Frameworks** | PyTorch, scikit-learn, timm, NumPy, pandas, OpenCV, pyvips |
 | **ML Concepts** | Multiple Instance Learning, Attention Mechanisms, Transfer Learning, Vision Transformers |
 | **Domains** | Medical Imaging, Weakly Supervised Learning |
-| **Visualization** | Matplotlib, OpenCV, pyvips |
-| **Deployment / Collaboration** | Kaggle Notebooks, GitHub |
+| **Visualization** | Matplotlib |
+| **Deployment / Collaboration** | Kaggle Notebooks |
 
 ---
 
