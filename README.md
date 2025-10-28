@@ -5,6 +5,7 @@
 This repository contains the implementation and materials for my **M.Tech (AI & DS)** final project at **SRM Institute of Science and Technology (SRMIST)**, guided by **Dr. S. Ganesh Kumar**.  
 The work was presented and published in the **Proceedings of ICMBNT 2025** under the title *"Optimizing an Attention-based MIL Architecture for Generalizing on the UBC-OCEAN"*.
 
+[notebooklm mind map of paper](presentation/ubc-ocean-abmil.png)
 ---
 
 ### 🧩 Abstract

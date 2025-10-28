@@ -2,3 +2,16 @@ __pycache__/
 *.log
 *.tmp
 .DS_Store
+
+.ipynb_checkpoints/
+
+# Model weights / checkpoints
+*.hdf5
+*.ckpt
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.h5
+
+.env
